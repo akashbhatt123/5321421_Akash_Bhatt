@@ -2,3 +2,4 @@
 ## Agile Course Screenshot
 
 ![Agile Screenshot](sdlc/agile.png)
+[View Git Certificate](git/git.certificate.pdf)
