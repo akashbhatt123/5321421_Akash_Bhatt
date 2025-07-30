@@ -1,4 +1,4 @@
-# 5321421_Akash_Bhatt
+## 5321421_Akash_Bhatt
 ## Agile Course Screenshot
 
 ![Agile Screenshot](sdlc/agile.png)
@@ -7,9 +7,10 @@
 
 ## Linux Programming Screenshots
 
-![Screenshot 1](linux_programming/linux1.png)
-![Screenshot 2](linux_programming/linux2.png)
-![Screenshot 3](linux_programming/linux3.png)
-![Screenshot 4](linux_programming/linux4.png)
+![Screenshot 1](linux_programming/linux.1.png)
+![Screenshot 2](linux_programming/linux.2.png)
+![Screenshot 3](linux_programming/linux.3.png)
+![Screenshot 4](linux_programming/linux.4.png)
+
 
 
