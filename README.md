@@ -13,4 +13,7 @@ Here are some screenshots:
 ![Linux 2](linux_programming/linux2.png)  
 ![Linux 3](linux_programming/linux3.png)  
 ![Linux 4](linux_programming/linux4.png)
+![Linux 5](linux_programming/linux5.png)  
+![Linux 6](linux_programming/linux6.png)
+
 
