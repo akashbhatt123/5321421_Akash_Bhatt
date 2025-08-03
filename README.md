@@ -1,4 +1,4 @@
-## 5321421_Akash_Bhatt
+\## 5321421_Akash_Bhatt
 ## Agile Course Screenshot
 
 ![Agile Screenshot](sdlc/agile.png)
@@ -20,6 +20,6 @@ Here are some screenshots:
 # C Programming Images
 
 Here are some images from the c_programming folder:
-![Beginner Image](c_programming/beginner.jpg)
+![Beginner Image](c_programming/beginners.jpg)
 
 
