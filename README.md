@@ -17,3 +17,9 @@ Here are some screenshots:
 ![Linux 6](linux_programming/linux6.png)
 
 
+# C Programming Images
+
+Here are some images from the c_programming folder:
+![Beginner Image](c_programming/beginner.jpg)
+
+
