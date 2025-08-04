@@ -1,13 +1,21 @@
-\## 5321421_Akash_Bhatt
+
 ## Agile Course Screenshot
 
+here are some screenshot for agile course
+
 ![Agile Screenshot](sdlc/agile.png)
-[View Git Certificate](git/git.certificate.pdf)
+
+
+
+## GIT Course certificate
+
+here is git course certificate 
+
 [View Git Certificate](git/git_certificate.pdf)
 
 # Linux Programming Screenshots
 
-Here are some screenshots:
+Here are some screenshots for linux programming:
 
 ![Linux 1](linux_programming/linux1.png)  
 ![Linux 2](linux_programming/linux2.png)  
@@ -17,9 +25,10 @@ Here are some screenshots:
 ![Linux 6](linux_programming/linux6.png)
 
 
-# C Programming Images
+## C Programming Images
 
 Here are some images from the c_programming folder:
+
 ![Beginner Image](c_programming/beginners.jpg)
 ![Intermediate Image](c_programming/intermediate.jpg)
 
