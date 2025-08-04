@@ -21,5 +21,6 @@ Here are some screenshots:
 
 Here are some images from the c_programming folder:
 ![Beginner Image](c_programming/beginners.jpg)
+![Intermediate Image](c_programming/intermediate.jpg)
 
 
