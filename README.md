@@ -11,7 +11,8 @@ here are some screenshot for agile course
 
 here is git course certificate 
 
-[View Git Certificate](git/git_certificate.pdf)
+[View Git Certificate](git/git.certificate.pdf)
+
 
 # Linux Programming Screenshots
 
