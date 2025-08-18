@@ -36,5 +36,50 @@ Here are some images from the c_programming folder:
 
 
 
+# Week 1 DSA Solutions
+
+
+### Day 1
+
+
+- [PlusMinus](Day1/PlusMinus.java)
+- [MiniMaxSum](Day1/MiniMaxSum.java)
+
+### Day 2
+
+
+- [TimeConversion](Day2/TimeConversion.java)
+- [SparseArrays](Day2/SparseArrays.java)
+
+### Day 3
+
+
+- [LonelyInteger](Day3/LonelyInteger.java)
+- [FlippingBits](Day3/FlippingBits.java)
+
+### Day 4
+
+
+- [CountingSort1](Day4/CountingSort1.java)
+- [DiagonalDifference](Day4/DiagonalDifference.java)
+
+### Day 5
+
+
+- [Pangrams](Day5/Pangrams.java)
+- [PermutingTwoArrays](Day5/PermutingTwoArrays.java)
+
+### Day 6
+
+
+- [SubarrayDivision1](Day6/SubarrayDivision1.java)
+
+### Day 7
+
+
+- [XORStrings2](Day7/XORStrings2.java)
+
+
+
 
 
