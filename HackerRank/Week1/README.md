@@ -3,28 +3,35 @@
 # Week 1 DSA Solutions
 
 ### Day 1
-- [Plus Minus](Day1/Plus%20Minus.txt)
-- [Mini-Max Sum](Day1/Mini-Max%20Sum.txt)
+
+- [Plus Minus](Day1/PlusMinus.java)
+- [Mini-Max Sum](Day1/MiniMaxSum.java)
 
 ### Day 2
-- [Time Conversion](Day2/Time%20Conversion.txt)
-- [Sparse Arrays](Day2/Sparse%20Arrays.txt)
+
+- [Time Conversion](Day2/TimeConversion.java)
+- [Sparse Arrays](Day2/SparseArrays.java)
 
 ### Day 3
-- [Lonely Integer](Day3/Lonely%20Integer.txt)
-- [Flipping Bits](Day3/Flipping%20Bits.txt)
+
+- [Lonely Integer](Day3/LonelyInteger.java)
+- [Flipping Bits](Day3/FlippingBits.java)
 
 ### Day 4
-- [Diagonal Difference](Day4/Diagonal%20Difference.txt)
-- [Counting Sort 1](Day4/Counting%20Sort%201.txt)
+
+- [Counting Sort 1](Day4/CountingSort1.java)
+- [Diagonal Difference](Day4/DiagonalDifference.java)
 
 ### Day 5
-- [Pangrams](Day5/Pangrams.txt)
-- [Permuting Two Arrays](Day5/Permuting%20Two%20Arrays.txt)
+
+- [Pangrams](Day5/Pangrams.java)
+- [Permuting Two Arrays](Day5/PermutingTwoArrays.java)
 
 ### Day 6
-- [Subarray Division 1](Day6/Subarray%20Division%201.txt)
+
+- [Subarray Division 1](Day6/SubarrayDivision1.java)
 
 ### Day 7
-- [XOR Strings 2](Day7/XOR%20Strings%202.txt)
+
+- [XOR Strings 2](Day7/XORStrings2.java)
 
