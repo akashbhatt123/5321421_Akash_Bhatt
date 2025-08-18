@@ -1,42 +1,30 @@
-# HackerRank DSA Solutions
 
-## Week 1
+
+# Week 1 DSA Solutions
 
 ### Day 1
-
-- [Plus Minus](HackerRank/Week1/Day1/Plus%20Minus.txt)
-- [Mini-Max Sum](HackerRank/Week1/Day1/Mini-Max%20Sum.txt)
-
+- [Plus Minus](Day1/Plus%20Minus.txt)
+- [Mini-Max Sum](Day1/Mini-Max%20Sum.txt)
 
 ### Day 2
-
-- [Time Conversion](HackerRank/Week1/Day2/Time%20Conversion.txt)
-- [Sparse Arrays](HackerRank/Week1/Day2/Sparse%20Arrays.txt)
-
+- [Time Conversion](Day2/Time%20Conversion.txt)
+- [Sparse Arrays](Day2/Sparse%20Arrays.txt)
 
 ### Day 3
-
-- [Lonely Integer](HackerRank/Week1/Day3/Lonely%20Integer.txt)
-- [Flipping Bits](HackerRank/Week1/Day3/Flipping%20Bits.txt)
-
+- [Lonely Integer](Day3/Lonely%20Integer.txt)
+- [Flipping Bits](Day3/Flipping%20Bits.txt)
 
 ### Day 4
-
-- [Diagonal Difference](HackerRank/Week1/Day4/Diagonal%20Difference.txt)
-- [Counting Sort 1](HackerRank/Week1/Day4/Counting%20Sort%201.txt)
-
+- [Diagonal Difference](Day4/Diagonal%20Difference.txt)
+- [Counting Sort 1](Day4/Counting%20Sort%201.txt)
 
 ### Day 5
-
-- [Pangrams](HackerRank/Week1/Day5/Pangrams.txt)
-- [Permuting Two Arrays](HackerRank/Week1/Day5/Permuting%20Two%20Arrays.txt)
-
+- [Pangrams](Day5/Pangrams.txt)
+- [Permuting Two Arrays](Day5/Permuting%20Two%20Arrays.txt)
 
 ### Day 6
-
-- [Subarray Division 1](HackerRank/Week1/Day6/Subarray%20Division%201.txt)
-
+- [Subarray Division 1](Day6/Subarray%20Division%201.txt)
 
 ### Day 7
+- [XOR Strings 2](Day7/XOR%20Strings%202.txt)
 
-- [XOR Strings 2](HackerRank/Week1/Day7/XOR%20Strings%202.txt)
