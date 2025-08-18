@@ -42,38 +42,45 @@ Here are some images from the c_programming folder:
 ## Week 1
 
 
+
 ### Day 1
 
-- [Plus Minus](HackerRank/Week1/Day1/Plus%20Minus.java) 
+
+- [Plus Minus](HackerRank/Week1/Day1/Plus%20Minus.java)
 - [Mini-Max Sum](HackerRank/Week1/Day1/Mini-Max%20Sum.java)
 
 ### Day 2
+
 
 - [Time Conversion](HackerRank/Week1/Day2/Time%20Conversion.java)
 - [Sparse Arrays](HackerRank/Week1/Day2/Sparse%20Arrays.java)
 
 ### Day 3
 
+
 - [Lonely Integer](HackerRank/Week1/Day3/Lonely%20Integer.java)
 - [Flipping Bits](HackerRank/Week1/Day3/Flipping%20Bits.java)
 
 ### Day 4
+
 
 - [Diagonal Difference](HackerRank/Week1/Day4/Diagonal%20Difference.java)
 - [Counting Sort 1](HackerRank/Week1/Day4/Counting%20Sort%201.java)
 
 ### Day 5
 
+
 - [Pangrams](HackerRank/Week1/Day5/Pangrams.java)
 - [Permuting Two Arrays](HackerRank/Week1/Day5/Permuting%20Two%20Arrays.java)
 
 ### Day 6
 
+
 - [Subarray Division 1](HackerRank/Week1/Day6/Subarray%20Division%201.java)
 
 ### Day 7
 
-- [XOR Strings 2](HackerRank/Week1/Day7/XOR%20Strings%202.java)
 
+- [XOR Strings 2](HackerRank/Week1/Day7/XOR%20Strings%202.java)
 
 
